@@ -1,6 +1,10 @@
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
+<<<<<<< HEAD
 Please refer the Gihub page: https://pragatisgithub.github.io/
+=======
+Gihub page: https://pragatisgithub.github.io/
+>>>>>>> 8c272c8f7f865a8bbe7be867f7a06cbe6b5d5fb8
 
 ## Background
 
